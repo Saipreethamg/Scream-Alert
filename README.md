@@ -1,0 +1,1 @@
+This project consists of frontend and backend modules which consists of python files in it. By running main.py the application will run. This project is used to detect the scream and send the alert message with live location to the guardians which ha been added by the end user.
